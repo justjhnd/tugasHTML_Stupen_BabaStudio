@@ -1,0 +1,12 @@
+body { 
+    background : #444
+}
+h2 { 
+    font-size: 30pt;
+    color: #ff0;
+}
+p { 
+    color: aqua;
+    font-weight: bold ;
+    text-decoration : under line;
+}
